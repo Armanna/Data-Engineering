@@ -1,0 +1,432 @@
+job_id,name,wages ($/hour)
+1,Senior government managers and officials  (0012),55.0
+2,"Senior managers - financial, communications and other business services  (0013)",63.46
+3,"Senior managers - health, education, social and community services and membership organizations  (0014)",53.46
+4,"Senior managers - trade, broadcasting and other services, n.e.c.  (0015)",56.37
+5,"Senior managers - construction, transportation, production and utilities  (0016)",57.03
+6,Financial managers  (0111),51.57
+7,Human resources managers  (0112),46.15
+8,Purchasing managers  (0113),59.13
+9,Other administrative services managers  (0114),41.03
+10,"Insurance, real estate and financial brokerage managers  (0121)",57.69
+11,"Banking, credit and other investment managers  (0122)",50.0
+12,"Advertising, marketing and public relations managers  (0124)",40.87
+13,Other business services managers  (0125),43.59
+14,Telecommunication carriers managers  (0131),43.59
+15,Postal and courier services managers  (0132),35.44
+16,Engineering managers  (0211),53.85
+17,Architecture and science managers  (0212),49.32
+18,Computer and information systems managers  (0213),52.66
+19,Managers in health care  (0311),48.21
+20,Government managers - health and social policy development and program administration  (0411),62.5
+21,"Government managers - economic analysis, policy development and program administration  (0412)",58.88
+22,Other managers in public administration  (0414),54.24
+23,Administrators - post-secondary education and vocational training  (0421),55.46
+24,School principals and administrators of elementary and secondary education  (0422),51.74
+25,"Managers in social, community and correctional services  (0423)",35.9
+26,Commissioned police officers  (0431),63.59
+27,"Library, archive, museum and art gallery managers  (0511)",39.27
+28,"Managers - publishing, motion pictures, broadcasting and performing arts  (0512)",33.33
+29,"Recreation, sports and fitness program and service directors  (0513)",38.46
+30,Corporate sales managers  (0601),52.5
+31,Retail and wholesale trade managers  (0621),40.65
+32,Restaurant and food service managers  (0631),19.23
+33,Accommodation service managers  (0632),32.69
+34,"Managers in customer and personal services, n.e.c.  (0651)",35.9
+35,Construction managers  (0711),40.0
+36,Home building and renovation managers  (0712),24.0
+37,Facility operation and maintenance managers  (0714),36.06
+38,Managers in transportation  (0731),38.53
+39,Managers in horticulture  (0822),19.88
+40,Manufacturing managers  (0911),43.59
+41,Utilities managers  (0912),68.72
+42,Financial auditors and accountants  (1111),36.06
+43,Financial and investment analysts  (1112),35.9
+44,"Securities agents, investment dealers and brokers  (1113)",41.21
+45,Other financial officers  (1114),35.9
+46,Human resources professionals  (1121),35.59
+47,Professional occupations in business management consulting  (1122),41.03
+48,"Professional occupations in advertising, marketing and public relations  (1123)",31.25
+49,"Supervisors, general office and administrative support workers  (1211)",28.02
+50,"Supervisors, finance and insurance office workers  (1212)",30.77
+51,"Supervisors, library, correspondence and related information workers  (1213)",28.58
+52,"Supervisors, mail and message distribution occupations  (1214)",25.0
+53,"Supervisors, supply chain, tracking and scheduling co-ordination occupations  (1215)",27.0
+54,Administrative officers  (1221),25.64
+55,Executive assistants  (1222),30.29
+56,Human resources and recruitment officers  (1223),27.47
+57,Property administrators  (1224),24.04
+58,Purchasing agents and officers  (1225),33.65
+59,Conference and event planners  (1226),23.75
+60,Court officers and justices of the peace  (1227),29.0
+61,"Employment insurance, immigration, border services and revenue officers  (1228)",33.33
+62,Administrative assistants  (1241),24.5
+63,Legal administrative assistants  (1242),21.98
+64,Medical administrative assistants  (1243),19.0
+65,"Court reporters, medical transcriptionists and related occupations  (1251)",20.0
+66,Health information management occupations  (1252),26.87
+67,Records management technicians  (1253),30.0
+68,Statistical officers and related research support occupations  (1254),28.04
+69,Accounting technicians and bookkeepers  (1311),24.04
+70,Insurance adjusters and claims examiners  (1312),30.77
+71,Insurance underwriters  (1313),32.0
+72,"Assessors, valuators and appraisers  (1314)",39.42
+73,"Customs, ship and other brokers  (1315)",25.21
+74,General office support workers  (1411),21.0
+75,Receptionists  (1414),17.5
+76,Personnel clerks  (1415),21.98
+77,Court clerks  (1416),27.0
+78,Data entry clerks  (1422),17.0
+79,Desktop publishing operators and related occupations  (1423),20.4
+80,Accounting and related clerks  (1431),22.0
+81,Payroll administrators  (1432),26.44
+82,"Banking, insurance and other financial clerks  (1434)",20.51
+83,Collectors  (1435),25.0
+84,Library assistants and clerks  (1451),18.27
+85,"Correspondence, publication and regulatory clerks  (1452)",27.69
+86,Survey interviewers and statistical clerks  (1454),20.0
+87,"Mail, postal and related workers  (1511)",20.0
+88,Letter carriers  (1512),25.0
+89,"Couriers, messengers and door-to-door distributors  (1513)",15.0
+90,Shippers and receivers  (1521),18.2
+91,Storekeepers and partspersons  (1522),22.0
+92,Production logistics co-ordinators  (1523),26.44
+93,Purchasing and inventory control workers  (1524),23.08
+94,Dispatchers  (1525),21.02
+95,Transportation route and crew schedulers  (1526),24.04
+96,Chemists  (2112),30.77
+97,Geoscientists and oceanographers  (2113),44.62
+98,Other professional occupations in physical sciences  (2115),48.29
+99,Biologists and related scientists  (2121),38.46
+100,Civil engineers  (2131),37.44
+101,Mechanical engineers  (2132),42.31
+102,Electrical and electronics engineers  (2133),40.0
+103,Chemical engineers  (2134),41.03
+104,Industrial and manufacturing engineers  (2141),40.87
+105,Mining engineers  (2143),42.31
+106,Geological engineers  (2144),42.61
+107,Aerospace engineers  (2146),45.67
+108,Computer engineers (except software engineers and designers)  (2147),44.1
+109,"Other professional engineers, n.e.c.  (2148)",38.46
+110,Architects  (2151),37.18
+111,Landscape architects  (2152),36.21
+112,Urban and land use planners  (2153),46.15
+113,Land surveyors  (2154),32.51
+114,"Mathematicians, statisticians and actuaries  (2161)",45.6
+115,Information systems analysts and consultants  (2171),41.6
+116,Database analysts and data administrators  (2172),40.0
+117,Software engineers and designers  (2173),46.15
+118,Computer programmers and interactive media developers  (2174),40.0
+119,Web designers and developers  (2175),31.72
+120,Chemical technologists and technicians  (2211),25.96
+121,Geological and mineral technologists and technicians  (2212),30.0
+122,Biological technologists and technicians  (2221),25.64
+123,Agricultural and fish products inspectors  (2222),37.5
+124,Conservation and fishery officers  (2224),29.0
+125,Landscape and horticulture technicians and specialists  (2225),20.0
+126,Civil engineering technologists and technicians  (2231),30.0
+127,Mechanical engineering technologists and technicians  (2232),36.06
+128,Industrial engineering and manufacturing technologists and technicians  (2233),30.0
+129,Construction estimators  (2234),36.63
+130,Electrical and electronics engineering technologists and technicians  (2241),32.0
+131,Electronic service technicians (household and business equipment)  (2242),25.0
+132,Industrial instrument technicians and mechanics  (2243),38.77
+133,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors  (2244)",36.0
+134,Architectural technologists and technicians  (2251),24.04
+135,Industrial designers  (2252),31.25
+136,Drafting technologists and technicians  (2253),27.88
+137,Technical occupations in geomatics and meteorology  (2255),34.0
+138,Non-destructive testers and inspection technicians  (2261),34.36
+139,Engineering inspectors and regulatory officers  (2262),42.22
+140,Inspectors in public and environmental health and occupational health and safety  (2263),31.25
+141,Construction inspectors  (2264),38.24
+142,Air traffic controllers and related occupations  (2272),40.06
+143,"Deck officers, water transport  (2273)",28.85
+144,Railway traffic controllers and marine traffic regulators  (2275),38.48
+145,Computer network technicians  (2281),35.0
+146,User support technicians  (2282),30.0
+147,Information systems testing technicians  (2283),32.21
+148,Nursing co-ordinators and supervisors  (3011),41.03
+149,Registered nurses and registered psychiatric nurses  (3012),36.0
+150,Veterinarians  (3114),81771.0
+151,Allied primary health practitioners  (3124),58.97
+152,Pharmacists  (3131),94490.0
+153,Dietitians and nutritionists  (3132),34.0
+154,Audiologists and speech-language pathologists  (3141),40.38
+155,Physiotherapists  (3142),42.0
+156,Occupational therapists  (3143),46.5
+157,Other professional occupations in therapy and assessment  (3144),22.0
+158,Medical laboratory technologists  (3211),38.0
+159,Medical laboratory technicians and pathologists' assistants  (3212),28.85
+160,Animal health technologists and veterinary technicians  (3213),20.0
+161,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists  (3214)",43.0
+162,Medical radiation technologists  (3215),36.22
+163,Medical sonographers  (3216),33.0
+164,"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c.  (3217)",25.0
+165,Other medical technologists and technicians (except dental health)  (3219),20.0
+166,Dental hygienists and dental therapists  (3222),40.0
+167,"Dental technologists, technicians and laboratory assistants  (3223)",25.0
+168,Opticians  (3231),26.0
+169,Licensed practical nurses  (3233),26.5
+170,Paramedical occupations  (3234),39.0
+171,Massage therapists  (3236),28.85
+172,Other technical occupations in therapy and assessment  (3237),17.5
+173,Dental assistants  (3411),22.0
+174,"Nurse aides, orderlies and patient service associates  (3413)",20.0
+175,Other assisting occupations in support of health services  (3414),17.0
+176,University professors and lecturers  (4011),54.33
+177,Post-secondary teaching and research assistants  (4012),20.3
+178,College and other vocational instructors  (4021),33.65
+179,Secondary school teachers  (4031),46.78
+180,Elementary school and kindergarten teachers  (4032),43.59
+181,Educational counsellors  (4033),35.0
+182,Lawyers and Quebec notaries  (4112),142676.0
+183,Psychologists  (4151),43.0
+184,Social workers  (4152),32.97
+185,"Family, marriage and other related counsellors  (4153)",26.67
+186,Professional occupations in religion  (4154),26.44
+187,Probation and parole officers and related occupations  (4155),39.49
+188,Employment counsellors  (4156),24.73
+189,"Natural and applied science policy researchers, consultants and program officers  (4161)",41.03
+190,Economists and economic policy researchers and analysts  (4162),46.15
+191,Business development officers and marketing researchers and consultants  (4163),31.25
+192,"Social policy researchers, consultants and program officers  (4164)",35.71
+193,"Health policy researchers, consultants and program officers  (4165)",32.67
+194,"Education policy researchers, consultants and program officers  (4166)",33.61
+195,"Recreation, sports and fitness policy researchers, consultants and program officers  (4167)",22.53
+196,Program officers unique to government  (4168),41.03
+197,"Other professional occupations in social science, n.e.c.  (4169)",35.0
+198,Paralegal and related occupations  (4211),28.85
+199,Social and community service workers  (4212),23.61
+200,Early childhood educators and assistants  (4214),20.0
+201,Instructors of persons with disabilities  (4215),26.67
+202,Other instructors  (4216),16.0
+203,Other religious occupations  (4217),18.62
+204,Police officers (except commissioned)  (4311),47.51
+205,Firefighters  (4312),45.67
+206,Non-commissioned ranks of the Canadian Armed Forces  (4313),26.31
+207,Home child care providers  (4411),17.0
+208,"Home support workers, housekeepers and related occupations  (4412)",17.5
+209,Elementary and secondary school teacher assistants  (4413),22.86
+210,Correctional service officers  (4422),33.0
+211,"By-law enforcement and other regulatory officers, n.e.c.  (4423)",36.27
+212,Librarians  (5111),32.9
+213,Conservators and curators  (5112),20.75
+214,Authors and writers  (5121),34.0
+215,Editors  (5122),26.44
+216,Journalists  (5123),38.46
+217,"Translators, terminologists and interpreters  (5125)",29.81
+218,"Producers, directors, choreographers and related occupations  (5131)",32.5
+219,Musicians and singers  (5133),20.0
+220,Dancers  (5134),25.0
+221,Library and public archive technicians  (5211),28.0
+222,Technical occupations related to museums and art galleries  (5212),20.0
+223,Photographers  (5221),16.0
+224,Film and video camera operators  (5222),33.48
+225,Graphic arts technicians  (5223),23.5
+226,Broadcast technicians  (5224),27.15
+227,Audio and video recording technicians  (5225),27.6
+228,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts  (5226)",27.7
+229,"Support occupations in motion pictures, broadcasting, photography and the performing arts  (5227)",20.45
+230,Announcers and other broadcasters  (5231),28.85
+231,Graphic designers and illustrators  (5241),26.22
+232,Interior designers and interior decorators  (5242),20.45
+233,"Theatre, fashion, exhibit and other creative designers  (5243)",28.85
+234,Artisans and craftspersons  (5244),18.0
+235,Athletes  (5251),22.5
+236,Coaches  (5252),18.0
+237,"Program leaders and instructors in recreation, sport and fitness  (5254)",16.4
+238,Retail sales supervisors  (6211),20.0
+239,Technical sales specialists - wholesale trade  (6221),25.83
+240,Retail and wholesale buyers  (6222),23.0
+241,Insurance agents and brokers  (6231),26.0
+242,Real estate agents and salespersons  (6232),44360.0
+243,Financial sales representatives  (6235),25.64
+244,Food service supervisors  (6311),16.0
+245,Executive housekeepers  (6312),21.8
+246,"Accommodation, travel, tourism and related services supervisors  (6313)",24.04
+247,Customer and information services supervisors  (6314),20.6
+248,Cleaning supervisors  (6315),24.1
+249,Other services supervisors  (6316),19.23
+250,Chefs  (6321),18.0
+251,Cooks  (6322),16.0
+252,"Butchers, meat cutters and fishmongers - retail and wholesale  (6331)",18.0
+253,Bakers  (6332),14.5
+254,Hairstylists and barbers  (6341),14.35
+255,"Tailors, dressmakers, furriers and milliners  (6342)",17.0
+256,"Jewellers, jewellery and watch repairers and related occupations  (6344)",20.38
+257,Upholsterers  (6345),21.5
+258,Funeral directors and embalmers  (6346),24.04
+259,Sales and account representatives - wholesale trade (non-technical)  (6411),24.67
+260,Retail salespersons  (6421),15.0
+261,Maîtres d'hôtel and hosts/hostesses  (6511),16.0
+262,Bartenders  (6512),18.0
+263,Food and beverage servers  (6513),14.5
+264,Travel counsellors  (6521),21.0
+265,Pursers and flight attendants  (6522),19.0
+266,Airline ticket and service agents  (6523),18.0
+267,"Ground and water transport ticket agents, cargo service representatives and related clerks  (6524)",18.46
+268,Tour and travel guides  (6531),16.0
+269,Casino workers  (6533),20.7
+270,Security guards and related security service occupations  (6541),16.0
+271,Customer services representatives - financial institutions  (6551),18.97
+272,Other customer and information services representatives  (6552),19.5
+273,"Image, social and other personal consultants  (6561)",15.73
+274,"Estheticians, electrologists and related occupations  (6562)",15.0
+275,Pet groomers and animal care workers  (6563),16.0
+276,Other personal service occupations  (6564),16.0
+277,Cashiers  (6611),14.35
+278,Service station attendants  (6621),14.5
+279,"Store shelf stockers, clerks and order fillers  (6622)",15.0
+280,Other sales related occupations  (6623),17.0
+281,"Food counter attendants, kitchen helpers and related support occupations  (6711)",14.35
+282,"Support occupations in accommodation, travel and facilities set-up services  (6721)",16.0
+283,"Operators and attendants in amusement, recreation and sport  (6722)",15.0
+284,Light duty cleaners  (6731),16.0
+285,Specialized cleaners  (6732),16.5
+286,"Janitors, caretakers and building superintendents  (6733)",17.65
+287,"Dry cleaning, laundry and related occupations  (6741)",15.36
+288,"Other service support occupations, n.e.c.  (6742)",15.0
+289,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations  (7201)",34.0
+290,"Contractors and supervisors, electrical trades and telecommunications occupations  (7202)",38.25
+291,"Contractors and supervisors, pipefitting trades  (7203)",47.96
+292,"Contractors and supervisors, carpentry trades  (7204)",35.09
+293,"Contractors and supervisors, other construction trades, installers, repairers and servicers  (7205)",36.06
+294,Machinists and machining and tooling inspectors  (7231),25.0
+295,Tool and die makers  (7232),28.0
+296,Sheet metal workers  (7233),32.05
+297,Boilermakers  (7234),43.0
+298,Structural metal and platework fabricators and fitters  (7235),24.0
+299,Ironworkers  (7236),39.67
+300,Welders and related machine operators  (7237),22.0
+301,Electricians (except industrial and power system)  (7241),30.0
+302,Industrial electricians  (7242),36.0
+303,Power system electricians  (7243),43.7
+304,Electrical power line and cable workers  (7244),34.72
+305,Telecommunications line and cable workers  (7245),30.0
+306,Telecommunications installation and repair workers  (7246),31.0
+307,Plumbers  (7251),30.77
+308,"Steamfitters, pipefitters and sprinkler system installers  (7252)",37.84
+309,Gas fitters  (7253),28.0
+310,Carpenters  (7271),25.0
+311,Cabinetmakers  (7272),24.0
+312,Bricklayers  (7281),40.66
+313,Concrete finishers  (7282),38.0
+314,Tilesetters  (7283),32.0
+315,"Plasterers, drywall installers and finishers and lathers  (7284)",35.97
+316,Roofers and shinglers  (7291),30.0
+317,Glaziers  (7292),27.0
+318,Insulators  (7293),32.41
+319,Painters and decorators (except interior decorators)  (7294),25.0
+320,"Contractors and supervisors, mechanic trades  (7301)",38.46
+321,"Contractors and supervisors, heavy equipment operator crews  (7302)",33.67
+322,"Supervisors, printing and related occupations  (7303)",26.9
+323,"Supervisors, railway transport operations  (7304)",36.77
+324,"Supervisors, motor transport and other ground transit operators  (7305)",28.21
+325,Construction millwrights and industrial mechanics  (7311),31.0
+326,Heavy-duty equipment mechanics  (7312),30.0
+327,"Heating, refrigeration and air conditioning mechanics  (7313)",30.0
+328,Railway carmen/women  (7314),33.54
+329,Aircraft mechanics and aircraft inspectors  (7315),40.0
+330,Elevator constructors and mechanics  (7318),38.0
+331,"Automotive service technicians, truck and bus mechanics and mechanical repairers  (7321)",23.0
+332,Motor vehicle body repairers  (7322),20.0
+333,Oil and solid fuel heating mechanics  (7331),25.0
+334,Appliance servicers and repairers  (7332),22.0
+335,Electrical mechanics  (7333),30.0
+336,"Motorcycle, all-terrain vehicle and other related mechanics  (7334)",28.0
+337,Other small engine and small equipment repairers  (7335),18.0
+338,Railway and yard locomotive engineers  (7361),36.0
+339,Railway conductors and brakemen/women  (7362),40.0
+340,Crane operators  (7371),32.0
+341,"Drillers and blasters - surface mining, quarrying and construction  (7372)",30.0
+342,Printing press operators  (7381),20.0
+343,"Other trades and related occupations, n.e.c.  (7384)",25.0
+344,Residential and commercial installers and servicers  (7441),22.0
+345,Waterworks and gas maintenance workers  (7442),30.0
+346,Pest controllers and fumigators  (7444),20.0
+347,Other repairers and servicers  (7445),20.0
+348,Material handlers  (7452),18.0
+349,Transport truck drivers  (7511),21.67
+350,"Bus drivers, subway operators and other transit operators  (7512)",27.12
+351,Taxi and limousine drivers and chauffeurs  (7513),17.5
+352,Delivery and courier service drivers  (7514),18.5
+353,Public works maintenance equipment operators and related workers  (7522),24.0
+354,Railway yard and track maintenance workers  (7531),30.0
+355,Water transport deck and engine room crew  (7532),24.82
+356,Air transport ramp attendants  (7534),19.0
+357,Other automotive mechanical installers and servicers  (7535),17.0
+358,Construction trades helpers and labourers  (7611),23.0
+359,Other trades helpers and labourers  (7612),20.0
+360,Public works and maintenance labourers  (7621),26.0
+361,Railway and motor transport labourers  (7622),17.0
+362,"Supervisors, logging and forestry  (8211)",27.24
+363,"Contractors and supervisors, oil and gas drilling and services  (8222)",34.34
+364,"Oil and gas well drillers, servicers, testers and related workers  (8232)",26.0
+365,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services  (8255)",27.0
+366,Chain saw and skidder operators  (8421),23.5
+367,Silviculture and forestry workers  (8422),21.35
+368,General farm workers  (8431),16.0
+369,Nursery and greenhouse workers  (8432),18.0
+370,Harvesting labourers  (8611),14.35
+371,Landscaping and grounds maintenance labourers  (8612),18.0
+372,Logging and forestry labourers  (8616),24.0
+373,"Supervisors, mineral and metal processing  (9211)",31.25
+374,"Supervisors, petroleum, gas and chemical processing and utilities  (9212)",38.46
+375,"Supervisors, food and beverage processing  (9213)",27.85
+376,"Supervisors, plastic and rubber products manufacturing  (9214)",28.85
+377,"Supervisors, forest products processing  (9215)",27.95
+378,"Supervisors, textile, fabric, fur and leather products processing and manufacturing  (9217)",19.23
+379,"Supervisors, motor vehicle assembling  (9221)",33.17
+380,"Supervisors, electronics manufacturing  (9222)",23.32
+381,"Supervisors, electrical products manufacturing  (9223)",31.7
+382,"Supervisors, other mechanical and metal products manufacturing  (9226)",29.33
+383,"Supervisors, other products manufacturing and assembly  (9227)",22.0
+384,"Central control and process operators, mineral and metal processing  (9231)",32.5
+385,"Pulping, papermaking and coating control operators  (9235)",24.68
+386,Power engineers and power systems operators  (9241),43.0
+387,"Machine operators, mineral and metal processing  (9411)",19.0
+388,Foundry workers  (9412),20.0
+389,Glass forming and finishing machine operators and glass cutters  (9413),18.64
+390,"Concrete, clay and stone forming operators  (9414)",23.0
+391,"Inspectors and testers, mineral and metal processing  (9415)",22.44
+392,Metalworking and forging machine operators  (9416),20.0
+393,Machining tool operators  (9417),20.5
+394,Other metal products machine operators  (9418),20.69
+395,Chemical plant machine operators  (9421),23.44
+396,Plastics processing machine operators  (9422),16.5
+397,Rubber processing machine operators and related workers  (9423),19.47
+398,Sawmill machine operators  (9431),25.0
+399,Other wood processing machine operators  (9434),19.0
+400,Paper converting machine operators  (9435),25.16
+401,Woodworking machine operators  (9437),19.55
+402,"Weavers, knitters and other fabric making occupations  (9442)",16.0
+403,"Fabric, fur and leather cutters  (9445)",17.21
+404,Industrial sewing machine operators  (9446),15.0
+405,"Inspectors and graders, textile, fabric, fur and leather products manufacturing  (9447)",14.51
+406,"Process control and machine operators, food and beverage processing  (9461)",18.3
+407,"Industrial butchers and meat cutters, poultry preparers and related workers  (9462)",20.0
+408,"Testers and graders, food and beverage processing  (9465)",24.45
+409,Plateless printing equipment operators  (9471),17.0
+410,Binding and finishing machine operators  (9473),17.0
+411,Photographic and film processors  (9474),18.0
+412,Aircraft assemblers and aircraft assembly inspectors  (9521),30.46
+413,"Motor vehicle assemblers, inspectors and testers  (9522)",20.69
+414,"Electronics assemblers, fabricators, inspectors and testers  (9523)",16.77
+415,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing  (9524)",17.0
+416,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers  (9525)",19.25
+417,Mechanical assemblers and inspectors  (9526),22.95
+418,"Machine operators and inspectors, electrical apparatus manufacturing  (9527)",18.25
+419,Furniture and fixture assemblers and inspectors  (9532),18.0
+420,Other wood products assemblers and inspectors  (9533),18.5
+421,Furniture finishers and refinishers  (9534),18.0
+422,"Plastic products assemblers, finishers and inspectors  (9535)",19.11
+423,"Industrial painters, coaters and metal finishing process operators  (9536)",19.0
+424,"Other products assemblers, finishers and inspectors  (9537)",16.5
+425,Labourers in mineral and metal processing  (9611),19.0
+426,Labourers in metal fabrication  (9612),18.0
+427,Labourers in chemical products processing and utilities  (9613),20.85
+428,"Labourers in wood, pulp and paper processing  (9614)",16.78
+429,Labourers in rubber and plastic products manufacturing  (9615),17.5
+430,Labourers in food and beverage processing  (9617),16.0
+431,"Other labourers in processing, manufacturing and utilities  (9619)",15.6

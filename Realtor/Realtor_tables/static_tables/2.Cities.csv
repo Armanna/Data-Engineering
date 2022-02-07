@@ -1,0 +1,395 @@
+city_id,name,province_id,area(km²),population
+1,Airdrie,1,84.57,43271
+2,Beaumont,1,10.47,13284
+3,Brooks,1,18.59,13676
+4,Calgary,1,825.56,1096833
+5,Camrose,1,42.62,17286
+6,Chestermere,1,32.94,14824
+7,Cold Lake,1,59.92,13839
+8,Edmonton,1,685.25,812201
+9,Fort Saskatchewan,1,48.18,19051
+10,Grande Prairie,1,132.73,55655
+11,Lacombe,1,20.81,11707
+12,Leduc,1,42.44,24304
+13,Lethbridge,1,122.09,83517
+14,Lloydminster ,1,24.04,18032
+15,Medicine Hat,1,112.04,60005
+16,Red Deer,1,104.73,90564
+17,Spruce Grove,1,32.2,26171
+18,St. Albert,1,48.45,61466
+19,Wetaskiwin,1,18.31,12525
+20,Abbotsford,2,375.55,141397
+21,Armstrong,2,5.22,5114
+22,Burnaby,2,90.61,232755
+23,Campbell River,2,144.36,32588
+24,Castlegar,2,19.67,8039
+25,Chilliwack,2,261.65,83788
+26,Colwood,2,17.67,16859
+27,Coquitlam,2,122.3,139284
+28,Courtenay,2,29.38,25599
+29,Cranbrook,2,32.0,20047
+30,Dawson Creek,2,24.37,12178
+31,Delta,2,180.2,102238
+32,Duncan,2,2.07,4944
+33,Enderby,2,4.26,2964
+34,Fernie,2,13.5,5249
+35,Fort St. John,2,26.27,20155
+36,Grand Forks,2,10.43,4049
+37,Greenwood,2,2.42,665
+38,Kamloops,2,299.25,90280
+39,Kelowna,2,211.85,127380
+40,Kimberley,2,60.62,7425
+41,Langford,2,39.94,35342
+42,Langley,2,10.22,25888
+43,Maple Ridge,2,266.78,82256
+44,Merritt,2,26.07,7139
+45,Mission,2,227.65,38833
+46,Nanaimo,2,90.76,90504
+47,Nelson,2,11.95,10572
+48,New Westminster,2,15.63,70996
+49,North Vancouver,2,11.85,52898
+50,Parksville,2,14.56,12514
+51,Penticton,2,42.1,33761
+52,Pitt Meadows,2,86.51,18573
+53,Port Alberni,2,19.76,17678
+54,Port Coquitlam,2,29.17,58612
+55,Port Moody,2,25.89,33551
+56,Powell River,2,28.91,13157
+57,Prince George,2,318.26,74003
+58,Prince Rupert,2,66.28,12220
+59,Quesnel,2,35.39,9879
+60,Revelstoke,2,41.13,7547
+61,Richmond,2,129.27,198309
+62,Rossland,2,59.79,3729
+63,Salmon Arm,2,155.28,17706
+64,Surrey,2,316.41,517887
+65,Terrace,2,57.36,11643
+66,Trail,2,34.93,7709
+67,Vancouver[a],2,114.97,631486
+68,Vernon,2,96.05,40116
+69,Victoria[b],2,19.47,85792
+70,West Kelowna,2,123.53,32655
+71,White Rock,2,5.12,19952
+72,Williams Lake,2,33.13,10753
+73,Brandon,3,77.41,48859
+74,Dauphin,3,12.61,8369
+75,Flin Flon ,3,13.87,4991
+76,Morden,3,16.37,8668
+77,Portage la Prairie,3,24.68,13304
+78,Selkirk,3,24.86,10278
+79,Steinbach,3,25.59,15829
+80,Thompson,3,20.79,13678
+81,Winkler,3,17.0,12660
+82,Winnipeg,3,464.33,705244
+83,Bathurst,4,92.04,11897
+84,Campbellton,4,18.58,6883
+85,Dieppe,4,54.05,25384
+86,Edmundston,4,106.85,16580
+87,Fredericton,4,132.57,58220
+88,Miramichi,4,179.93,17537
+89,Moncton,4,141.92,71889
+90,Saint John,4,315.96,67575
+91,Corner Brook,5,148.26,19806
+92,Mount Pearl,5,15.76,22957
+93,St. John's,5,445.88,108860
+94,Yellowknife,6,105.47,19569
+95,Halifax,7,5.49,431479
+96,Sydney,7,29.43,29904
+97,Darthmouth,7,58.57,101343
+98,Iqaluit,8,52.5,7740
+99,Barrie,9,99.04,141434
+100,Belleville,9,247.25,50716
+101,Brampton,9,266.36,593638
+102,Brant,9,843.25,36707
+103,Brantford,9,72.44,97496
+104,Brockville,9,20.85,21346
+105,Burlington,9,185.66,183314
+106,Cambridge,9,113.01,129920
+107,Clarence-Rockland,9,297.71,24512
+108,Cornwall,9,61.56,46589
+109,Dryden,9,66.19,7749
+110,Elliot Lake,9,714.65,10741
+111,Greater Sudbury,9,3228.35,161531
+112,Guelph,9,87.22,131794
+113,Haldimand County,9,1251.54,45608
+114,Hamilton,9,1117.29,536917
+115,Kawartha Lakes,9,3084.38,75423
+116,Kenora,9,211.59,15096
+117,Kingston,9,451.19,123798
+118,Kitchener,9,136.77,233222
+119,London,9,420.35,383822
+120,Markham,9,212.35,328966
+121,Mississauga,9,292.43,721599
+122,Niagara Falls,9,209.73,88071
+123,Norfolk County,9,1607.55,64044
+124,North Bay,9,319.11,51553
+125,Orillia,9,28.58,31166
+126,Oshawa,9,145.64,159458
+127,Ottawa,9,2790.3,934243
+128,Owen Sound,9,24.27,21341
+129,Pembroke,9,14.56,13882
+130,Peterborough,9,64.25,81032
+131,Pickering,9,231.55,91771
+132,Port Colborne,9,121.96,18306
+133,Prince Edward County,9,1050.49,24735
+134,Quinte West,9,494.02,43577
+135,Richmond Hill,9,101.11,195022
+136,Sarnia,9,164.85,71594
+137,Sault Ste. Marie,9,223.24,73368
+138,St. Catharines,9,96.13,133113
+139,St. Thomas,9,35.63,38909
+140,Stratford,9,28.28,31465
+141,Temiskaming Shores,9,178.11,9920
+142,Thorold,9,82.99,18801
+143,Thunder Bay,9,328.36,107909
+144,Timmins,9,2978.83,41788
+145,Toronto,9,630.2,2731571
+146,Vaughan,9,273.56,306233
+147,Waterloo,9,64.02,104986
+148,Welland,9,81.04,52293
+149,Windsor,9,146.38,217188
+150,Woodstock,9,48.97,40902
+151,Charlottetown,10,44.34,36094
+152,Summerside,10,28.49,14829
+153,Acton Vale,11,91.1,7656
+154,Alma,11,196.54,30776
+155,Amos,11,430.29,12823
+156,Amqui,11,121.17,6178
+157,Baie-Comeau,11,336.59,21536
+158,Baie-D'Urfé,11,6.03,3823
+159,Baie-Saint-Paul,11,546.48,7146
+160,Barkmere,11,17.99,58
+161,Beaconsfield,11,11.03,19324
+162,Beauceville,11,164.55,6281
+163,Beauharnois,11,69.31,12884
+164,Beaupré,11,22.96,3752
+165,Bécancour,11,440.68,13031
+166,Bedford,11,4.25,2560
+167,Belleterre,11,551.02,313
+168,Beloeil,11,24.4,22458
+169,Berthierville,11,6.89,4189
+170,Blainville,11,55.16,56863
+171,Boisbriand,11,27.82,26884
+172,Bois-des-Filion,11,4.39,9636
+173,Bonaventure,11,104.35,2706
+174,Boucherville,11,70.5,41671
+175,Lac-Brome,11,207.29,5495
+176,Bromont,11,114.13,9041
+177,Brossard,11,45.23,85721
+178,Brownsburg-Chatham,11,247.4,7122
+179,Candiac,11,17.31,21047
+180,Cap-Chat,11,182.05,2476
+181,Cap-Santé,11,54.53,3400
+182,Carignan,11,62.27,9462
+183,Carleton-sur-Mer,11,221.42,4073
+184,Causapscal,11,161.6,2304
+185,Chambly,11,25.13,29120
+186,Chandler,11,419.34,7546
+187,Chapais,11,63.71,1499
+188,Charlemagne,11,2.19,5913
+189,Châteauguay,11,35.95,47906
+190,Château-Richer,11,229.55,4126
+191,Chibougamau,11,698.13,7504
+192,Clermont,11,51.59,3085
+193,Coaticook,11,219.51,8698
+194,Contrecoeur,11,61.51,7887
+195,Cookshire-Eaton,11,296.38,5393
+196,Côte Saint-Luc,11,6.96,32448
+197,Coteau-du-Lac,11,46.89,7044
+198,Cowansville,11,46.89,13656
+199,Danville,11,151.98,3826
+200,Daveluyville,11,2.23,965
+201,Dégelis,11,557.05,2863
+202,Delson,11,7.63,7457
+203,Desbiens,11,10.4,1028
+204,Deux-Montagnes,11,6.09,17496
+205,Disraeli,11,6.79,2336
+206,Dolbeau-Mistassini,11,295.49,14250
+207,Dollard-des-Ormeaux,11,14.97,48899
+208,Donnacona,11,20.13,7200
+209,Dorval,11,20.91,18980
+210,Drummondville,11,247.15,75423
+211,Dunham,11,194.06,3432
+212,Duparquet,11,123.57,666
+213,East Angus,11,7.89,3659
+214,Estérel,11,12.57,196
+215,Farnham,11,92.26,8909
+216,Fermont,11,476.89,2474
+217,Forestville,11,195.05,3081
+218,Fossambault-sur-le-Lac,11,11.53,1960
+219,Gaspé,11,1121.43,14568
+220,Gatineau,11,342.8,276245
+221,Gracefield,11,386.84,2462
+222,Granby,11,152.79,66222
+223,Grande-Rivière,11,87.86,3408
+224,Hampstead,11,1.8,6973
+225,Hudson,11,21.87,5185
+226,Huntingdon,11,2.78,2444
+227,Joliette,11,22.97,20484
+228,Kingsey Falls,11,69.64,1947
+229,Kirkland,11,9.63,20151
+230,La Malbaie,11,459.24,8271
+231,La Pocatière,11,21.63,4120
+232,La Prairie,11,43.68,24110
+233,La Sarre,11,148.5,7282
+234,La Tuque,11,25112.41,11001
+235,Lac-Delage,11,1.59,638
+236,Lachute,11,109.96,12862
+237,Lac-Mégantic,11,21.95,5654
+238,Lac-Saint-Joseph,11,33.69,260
+239,Lac-Sergent,11,3.76,497
+240,L'Ancienne-Lorette,11,7.72,16543
+241,L'Assomption,11,98.99,22429
+242,Laval,11,247.23,422993
+243,Lavaltrie,11,68.39,13657
+244,Lebel-sur-Quévillon,11,40.89,2187
+245,L'Épiphanie,11,2.3,5493
+246,Léry,11,10.53,2318
+247,Lévis,11,449.05,143414
+248,L'Île-Cadieux,11,0.59,126
+249,L'Île-Dorval,11,0.19,5
+250,L'Île-Perrot,11,5.55,10756
+251,Longueuil,11,115.75,239700
+252,Lorraine,11,5.92,9352
+253,Louiseville,11,63.85,7152
+254,Macamic,11,202.7,2751
+255,Magog,11,144.47,26669
+256,Malartic,11,148.85,3377
+257,Maniwaki,11,5.98,3853
+258,Marieville,11,63.23,10725
+259,Mascouche,11,107.0,46692
+260,Matagami,11,75.03,1453
+261,Matane,11,196.08,14311
+262,Mercier,11,46.08,13115
+263,Métabetchouan–Lac-à-la-Croix,11,187.23,3985
+264,Métis-sur-Mer,11,48.6,587
+265,Mirabel,11,485.07,50513
+266,Mont-Joli,11,24.2,6281
+267,Mont-Laurier,11,591.27,14116
+268,Montmagny,11,124.51,11255
+269,Montreal,11,365.65,1704694
+270,Montreal West,11,1.37,5050
+271,Montréal-Est,11,12.24,3850
+272,Mont-Saint-Hilaire,11,44.19,18585
+273,Mont-Tremblant,11,235.06,9646
+274,Mount Royal,11,7.53,20276
+275,Murdochville,11,61.37,651
+276,Neuville,11,71.99,4392
+277,New Richmond,11,171.34,3706
+278,Nicolet,11,95.93,8169
+279,Normandin,11,212.46,3033
+280,Notre-Dame-de-l'Île-Perrot,11,28.21,10654
+281,Notre-Dame-des-Prairies,11,18.2,9273
+282,Otterburn Park,11,5.37,8421
+283,Paspébiac,11,94.47,3164
+284,Percé,11,431.37,3103
+285,Pincourt,11,7.11,14558
+286,Plessisville,11,4.4,6551
+287,Pohénégamook,11,340.44,2582
+288,Pointe-Claire,11,18.9,31380
+289,Pont-Rouge,11,121.2,9240
+290,Port-Cartier,11,1102.09,6799
+291,Portneuf,11,109.39,3187
+292,Prévost,11,34.58,13002
+293,Princeville,11,195.26,6001
+294,Québec,11,453.38,531902
+295,Repentigny,11,61.23,84285
+296,Richelieu,11,30.98,5236
+297,Richmond,11,6.92,3232
+298,Rigaud,11,99.23,7777
+299,Rimouski,11,339.64,48664
+300,Rivière-du-Loup,11,84.11,19507
+301,Rivière-Rouge,11,455.65,4322
+302,Roberval,11,151.85,10046
+303,Rosemère,11,10.84,13958
+304,Rouyn-Noranda,11,6009.89,42334
+305,Saguenay,11,1128.56,145949
+306,Saint-Augustin-de-Desmaures,11,85.87,18820
+307,Saint-Basile,11,98.84,2631
+308,Saint-Basile-le-Grand,11,35.89,17059
+309,Saint-Bruno-de-Montarville,11,43.14,26394
+310,Saint-Césaire,11,83.2,5877
+311,Saint-Charles-Borromée,11,18.52,13791
+312,Saint-Colomban,11,93.87,16019
+313,Saint-Constant,11,57.13,27359
+314,Sainte-Adèle,11,120.95,12919
+315,Sainte-Agathe-des-Monts,11,130.09,10223
+316,Sainte-Anne-de-Beaupré,11,62.35,2880
+317,Sainte-Anne-de-Bellevue,11,10.48,4958
+318,Sainte-Anne-des-Monts,11,264.09,6437
+319,Sainte-Anne-des-Plaines,11,93.59,14421
+320,Sainte-Catherine,11,9.42,17047
+321,Sainte-Catherine-de-la-Jacques-Cartier,11,121.06,7706
+322,Sainte-Julie,11,48.53,29881
+323,Sainte-Marguerite-du-Lac-Masson,11,91.96,2763
+324,Sainte-Marie,11,107.57,13565
+325,Sainte-Marthe-sur-le-Lac,11,8.75,18074
+326,Sainte-Thérèse,11,9.48,25989
+327,Saint-Eustache,11,70.51,44008
+328,Saint-Félicien,11,363.19,10238
+329,Saint-Gabriel,11,2.83,2640
+330,Saint-Georges,11,199.27,32513
+331,Saint-Hyacinthe,11,188.97,55648
+332,Saint-Jean-sur-Richelieu,11,226.63,95114
+333,Saint-Jérôme,11,90.44,74346
+334,Saint-Joseph-de-Beauce,11,114.87,4858
+335,Saint-Joseph-de-Sorel,11,1.38,1642
+336,Saint-Lambert,11,7.59,21861
+337,Saint-Lazare,11,66.8,19889
+338,Saint-Lin–Laurentides,11,118.36,20786
+339,Saint-Marc-des-Carrières,11,17.27,2911
+340,Saint-Ours,11,59.31,1669
+341,Saint-Pamphile,11,137.77,2400
+342,Saint-Pascal,11,59.69,3468
+343,Saint-Pie,11,107.49,5607
+344,Saint-Raymond,11,670.33,10221
+345,Saint-Rémi,11,78.35,8061
+346,Saint-Sauveur,11,47.91,10231
+347,Saint-Tite,11,91.33,3673
+348,Salaberry-de-Valleyfield,11,107.13,40745
+349,Schefferville,11,27.33,155
+350,Scotstown,11,11.46,472
+351,Senneterre,11,14889.93,2868
+352,Sept-Îles,11,1762.92,25400
+353,Shawinigan,11,734.84,49349
+354,Sherbrooke,11,353.76,161323
+355,Sorel-Tracy,11,57.46,34755
+356,Stanstead,11,22.0,2788
+357,Sutton,11,245.95,4012
+358,Témiscaming,11,718.49,2431
+359,Témiscouata-sur-le-Lac,11,218.8,4910
+360,Terrebonne,11,154.12,111575
+361,Thetford Mines,11,226.32,25403
+362,Thurso,11,6.28,2818
+363,Trois-Pistoles,11,7.64,3246
+364,Trois-Rivières,11,289.32,134413
+365,Valcourt,11,5.42,2165
+366,Val-d'Or,11,3550.7,32491
+367,Val-des-Sources,11,30.41,6786
+368,Varennes,11,94.41,21257
+369,Vaudreuil-Dorion,11,72.73,38117
+370,Victoriaville,11,84.23,46130
+371,Ville-Marie,11,5.84,2584
+372,Warwick,11,109.84,4635
+373,Waterloo,11,12.24,4410
+374,Waterville,11,44.1,2121
+375,Westmount,11,4.04,20312
+376,Windsor,11,14.56,5419
+377,Estevan,12,18.85,11483
+378,Flin Flon ,12,2.37,203
+379,Humboldt,12,13.46,5869
+380,Lloydminster ,12,17.34,11765
+381,Martensville,12,6.23,9645
+382,Meadow Lake,12,7.95,5344
+383,Melfort,12,14.78,5992
+384,Melville,12,14.82,4562
+385,Moose Jaw,12,50.68,33890
+386,North Battleford,12,33.55,14315
+387,Prince Albert,12,65.74,35926
+388,Regina,12,145.45,215106
+389,Saskatoon,12,209.56,246376
+390,Swift Current,12,24.04,16604
+391,Warman,12,8.54,11020
+392,Weyburn,12,18.49,10870
+393,Yorkton,12,25.77,16343
+394,Whitehorse,13,416.54,25085
